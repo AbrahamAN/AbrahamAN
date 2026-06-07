@@ -22,7 +22,7 @@ I build web applications focused on performance, clean architecture, and good us
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=flat)
-![PostgreSQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-grey?style=flat)
